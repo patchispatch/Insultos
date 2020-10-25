@@ -37,13 +37,21 @@
 ## A
 
 Abanto
+
 Abrazafarolas
+
 Adufe
+
 Alcornoque
+
 Alfeñique
+
 Andurriasmo
+
 Arrastracueros
+
 Artabán
+
 Atarre
 
 <div id='id02'/>
@@ -51,20 +59,35 @@ Atarre
 ## B
 
 Baboso
+
 Barrabás
+
 Barriobajero
+
 Bebecharcos
+
 Bellaco
+
 Belloto
+
 Berzotas
+
 Besugo
+
 Bobalicón
+
 Bocabuzón
+
 Bocachancla
+
 Bocallanta
+
 Boquimuelle
+
 Borrico
+
 Botarate
+
 Brasas
 
 <div id='id03'/>
@@ -72,48 +95,93 @@ Brasas
 ## C
 
 Cabestro
+
 Cabezaalberca
+
 Cabezabuque
+
 Cachibache
+
 Cafre
+
 Cagalindes
+
 Cagarruta
+
 Calambuco
+
 Calamidad
+
 Caldúo
+
 Calientahielos
+
 Calzamonas
+
 Cansalmas
+
 Cantamañanas
+
 Capullo
+
 Caracaballo
+
 Caracartón
+
 Caraculo
+
 Caraflema
+
 Carajaula
+
 Carajote
+
 Carapapa
+
 Carapijo
+
 Cazurro
+
 Cebollino
+
 Cenizo
+
 Cenutrio
+
 Ceporro
+
 Cernícalo
+
 Charrán
+
 Chiquilicuatre
+
 Chirimbaina
+
 Chupacables
+
 Chupasangre
+
 Chupóptero
+
 Cierrabares
+
 Cipote
+
 Comebolsas
+
 Comechapas
+
 Comeflores
+
+Comemierda
+
 Comestacas
+
 Cretino
+
 Cuerpoescombro
+
 Culopollo
 
 <div id='id04'/>
@@ -121,8 +189,11 @@ Culopollo
 ## D
 
 Descerebrado
+
 Desgarracalzas
+
 Dondiego
+
 Donnadie
 
 <div id='id05'/>
@@ -130,11 +201,17 @@ Donnadie
 ## E
 
 Echacantos
+
 Ejarramantas
+
 Energúmeno
+
 Esbaratabailes
+
 Escolimoso
+
 Escornacabras
+
 Estulto
 
 <div id='id06'/>
@@ -142,10 +219,15 @@ Estulto
 ## F
 
 Fanfosquero
+
 Fantoche
+
 Fariseo
+
 Filimincias
+
 Foligoso
+
 Fulastre
 
 <div id='id07'/>
@@ -153,15 +235,25 @@ Fulastre
 ## G
 
 Ganapán
+
 Ganapio
+
 Gandúl
+
 Gañán
+
 Gaznápiro
+
 Gilipuertas
+
 Giraesquinas
+
 Gorrino
+
 Gorrumino
+
 Guitarro
+
 Gurriato
 
 <div id='id08'/>
@@ -169,7 +261,9 @@ Gurriato
 ## H
 
 Habahelá
+
 Huelegateras
+
 Huevón
 
 <div id='id09'/>
@@ -177,7 +271,9 @@ Huevón
 ## I
 
 Imbécil
+
 Inútil
+
 Inepto
 
 <div id='id10'/>
@@ -193,42 +289,76 @@ Inepto
 ## L
 
 Lamecharcos
+
 Lameculos
+
 Lameplatos
+
 Lechuguino
+
 Lerdo
+
 Letrín
+
 Lloramigas
+
 Longanizas
+
 Lumbreras
+
 
 <div id='id13'/>
 
 ## M
 
 Maganto
+
 Majadero
+
 Malasangre
+
 Malasombra
+
 Malparido
+
 Mameluco
+
 Mamporrero
+
 Manegueta
+
 Mangarrán
+
 Mangurrián
+
 Mastuerzo
+
 Matacandiles
+
 Meapilas
+
 Melón
+
 Mendrugo
+
 Mentecato
+
 Mequetrefe
+
 Merluzo
+
 Metemuertos
+
 Metijaco
+
+Mierdaseca
+
 Mindundi
+
 Morlaco
+
 Morroestufa
+
 Muerdesartenes
 
 <div id='id14'/>
@@ -244,6 +374,7 @@ Muerdesartenes
 ## O
 
 Orate
+
 Ovejo
 
 <div id='id17'/>
@@ -251,49 +382,93 @@ Ovejo
 ## P
 
 Pagafantas
+
 Palurdo
+
 Pamplinas
+
 Panarra
+
 Panoli
+
 Papafrita
+
 Papanatas
+
 Papirote
+
 Paquete
+
 Pardillo
+
 Parguela
+
 Pasmarote
+
 Pasmasuegras
+
 Pataliebre
+
 Patán
+
 Pavitonto
+
 Pazguato
+
 Pecholata
+
 Pedorro
+
 Peinabombillas
+
 Peinaovejas
+
 Pelagallos
+
 Pelagambas
+
 Pelagatos
+
 Pelatigres
+
 Pelazarzas
+
 Pelele
+
 Pelma
+
 Percebe
+
 Perrocostra
+
 Perroflauta
+
 Peterete
+
 Petimetre
+
 Picapleitos
+
 Pichabrava
+
 Pillavispas
+
 Piltrafa
+
 Pinchauvas
+
 Pintamonas
+
 Piojoso
+
 Pitañoso
+
 Pitofloro
+
 Plomo
+
 Pocasluces
+
 Pollopera
 
 <div id='id18'/>
@@ -302,14 +477,19 @@ Pollopera
 
 Quitahipos
 
+
 <div id='id19'/>
 
 ## R
 
 Rastrapajo
+
 Rebañasandías
+
 Revientabaules
+
 Ríeleches
+
 Robaperas
 
 <div id='id20'/>
@@ -317,14 +497,23 @@ Robaperas
 ## S
 
 Sabandija
+
 Sacamuelas
+
 Sanguijuela
+
 Sinentraero
+
 Sinsustancia
+
 Sonajas
+
 Sonso
+
 Soplagaitas
+
 Soplaguindas
+
 Sosco
 
 <div id='id21'/>
@@ -332,18 +521,31 @@ Sosco
 ## T
 
 Tagarote
+
 Tarado
+
 Tarugo
+
 Tiralevitas
+
 Tocapelotas
+
 Tocho
+
 Tolai
+
 Tontaco
+
 Tontucio
+
 Tordo
+
 Tragaldabas
+
 Tuercebotas
+
 Tunante
+
 
 <div id='id22'/>
 
@@ -370,14 +572,25 @@ Tunante
 ## Z
 
 Zamacuco
+
 Zambombo
+
 Zampabollos
+
 Zamugo
+
 Zángano
+
 Zarrapastroso
+
 Zascandil
+
 Zopenco
+
 Zoquete
+
 Zote
+
 Zullenco
+
 Zurcefrenillos
